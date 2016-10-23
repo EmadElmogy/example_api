@@ -1,7 +1,7 @@
 services:
 
   inventory:
-    git_url: git@github.com:launchany/microservices-node-inventory.git
+    git_url: git@github.com:EmadElmogy/example_api.git
     git_branch: master
     command: npm start
     build_root: .

@@ -1,9 +1,9 @@
 {
-  "name": "microservices-node-inventory",
+  "name": "Example REST Api",
   "version": "1.0.0",
-  "description": "Example REST-based API using Node Express, deployed using Docker",
+  "description": "Example REST-based API For Library Mangment App using Node Express, deployed using Docker",
   "main": "server.js",
-  "author": "James Higginbotham",
+  "author": "Emad Elmogy",
   "license": "MIT",
   "dependencies": {
     "body-parser": "~1.0.1",
